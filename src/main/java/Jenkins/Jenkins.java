@@ -15,5 +15,6 @@ public class Jenkins {
     public static void main(String[] args) {
         System.out.println("version:1.0.1");
         System.out.println("Jenkins!!");
+        System.out.println("2022-08-02");
     }
 }
